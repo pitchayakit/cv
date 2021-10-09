@@ -29,7 +29,7 @@ module.exports = {
   plays: [
     {
       title: 'Lexicon',
-      written: '2020 - prosent',
+      written: '2020 - Present',
       badges: ['Laravel', 'WordPress', 'VueJS', 'Nova', 'Alpine JS'],
       contents: [
         'Managed up Line CRM system', 
