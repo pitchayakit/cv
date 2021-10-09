@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'William Shakespeare',
+  name: 'Pitchayakit Pahamak',
   title: 'Poet, playwright and actor',
   facts: {
     'Residence': 'London',
