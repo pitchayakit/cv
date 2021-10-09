@@ -46,10 +46,11 @@
     </div>
 
     <p>
-        English poet, playwright and actor, widely regarded as the greatest writer in the English language
-        and the world's pre-eminent dramatist. Often called England's national poet and the "Bard of Avon".
-        My extant work is including collaborations, consist of approximately 38 plays, 154 sonnets,
-        two long narrative poems and a few other verses, some of uncertain authorship.
+        Over 5 years of software development career in a variety of companies including startup and digital agency. 
+        I graduated with a Master's degree in Network Learning Technology, NCU, Taiwan. 
+        I has been working on both back-end and front-end website development.
+        Moreover, I am intersted in IoT and Machine learning.
+        Please get in touch
     </p>
 
     <h2>Professional Experience</h2>
@@ -59,7 +60,11 @@
             <h3>{{ title }}</h3>
             <p class="text-muted">{{ written }}</p>
 
-            {{{markdown contents }}}
+            <ul>
+            {{#each contents }}
+                <li> {{ this }}</li>
+            {{/each}}
+            </ul>
 
             <div>
                 {{#each badges }}
@@ -71,8 +76,8 @@
     {{/each}}
 
     <h2>Education</h2>
-    <p>King Edward VI Grammar School in Stratford-upon-Avon [1571 - 1578]</p>
-
+    <p>Master of Network Learning Technology, College of Electrical Engineering & Computer Science, National Central University, Taiwan [2018 - 2020]</p>
+    <p>Bachelor of Computer Engineering, College of Engineering, Kasetsart University, Thailand [2013 - 2016]
     <h2>Additional Experience</h2>
 
     {{#each experience}}
