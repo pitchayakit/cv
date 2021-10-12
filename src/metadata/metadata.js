@@ -12,7 +12,7 @@ module.exports = {
     ['PHP', '++++'],
     ['SCSS', '++++'],
     ['jQuery', '++++'],
-    ['Boostrab', '++++'],
+    ['Bootstrap', '++++'],
     ['Tailwind', '++++'],
     ['WordPress', '++++'],
     ['Resful', '++++'],
