@@ -20,6 +20,7 @@ module.exports = {
     ['SQL', '++++'],
     ['C', '++++'],
     ['AlpineJs', '+++'],
+    ['Livewire', '+++'],
     ['VueJs', '+++'],
     ['NodeJs', '+++'],
     ['Linux', '+++'],
@@ -30,7 +31,7 @@ module.exports = {
     {
       title: 'Lexicon',
       written: '2020 - Present',
-      badges: ['Laravel', 'WordPress', 'VueJS', 'Nova', 'Alpine JS'],
+      badges: ['Laravel', 'WordPress', 'VueJS', 'Nova', 'Alpine JS', 'Livewire'],
       contents: [
         'Managed up Line CRM system', 
         'Managed up CMS using Laravel and WordPress', 
@@ -83,7 +84,7 @@ module.exports = {
     {
       title: 'SeSaMe (Sensor-enhanced Social Media) Center, National University of Singapore',
       written: 'Jul 2015 – Dec 2015',
-      badges: ['Play Framework', 'HTML Canvas', 'Joomla', 'OpenCV'],
+      badges: ['Play Framework', 'HTML Canvas', 'Joomla', 'OpenCV', 'MongoDB'],
       contents: [
         'SENSE video analytics web application - replaced video output for detection, tracking and counting by HTML Canvas', 
         'Take over and developed SeSaMe website using Joomla CMS', 
