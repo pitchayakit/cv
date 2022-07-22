@@ -10,22 +10,20 @@ module.exports = {
   skills: [
     ['Laravel', '++++'],
     ['PHP', '++++'],
+    ['Livewire', '++++'],
     ['SCSS', '++++'],
-    ['jQuery', '++++'],
     ['Bootstrap', '++++'],
     ['Tailwind', '++++'],
+    ['AlpineJs', '++++'],
+    ['jQuery', '++++'],
     ['WordPress', '++++'],
-    ['Resful', '++++'],
+    ['Restful', '++++'],
     ['GIT', '++++'],
     ['SQL', '++++'],
-    ['C', '++++'],
-    ['AlpineJs', '+++'],
-    ['Livewire', '+++'],
     ['VueJs', '+++'],
     ['NodeJs', '+++'],
     ['Linux', '+++'],
     ['Python', '++'],
-    
   ],
   plays: [
     {
@@ -34,10 +32,10 @@ module.exports = {
       badges: ['Laravel', 'WordPress', 'VueJS', 'Nova', 'Alpine JS', 'Livewire'],
       contents: [
         'Managed up Line CRM system', 
-        'Managed up CMS using Laravel and WordPress', 
+        'Managed up CMS using Laravel, Nova, and WordPress', 
         'Electric search', 
         'Data migration', 
-        'Coaching internships in web development and technical support'
+        'Coaching junior developer in web development and technical support'
       ]
     },
     {
