@@ -33,7 +33,7 @@ module.exports = {
       contents: [
         'Managed up Line CRM system', 
         'Managed up CMS using Laravel, Nova, and WordPress', 
-        'Electric search', 
+        'Elasticsearch', 
         'Data migration', 
         'Coaching junior developer in web development and technical support'
       ]
@@ -56,7 +56,7 @@ module.exports = {
         'Coaching internships in web development and technical support', 
         'Managed up to 4 web content management systems and tasks at a given time', 
         'Collaborate with designer in order to ensure quality and accuracy of the designy', 
-        'A Support tool for web scraping and export to excel file'
+        'A support tool for web scraping and export to excel file'
       ]
     },
     {
