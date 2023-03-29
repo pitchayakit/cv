@@ -8,14 +8,14 @@ module.exports = {
     'Email': '<a href="mailto:pitchayakit.p@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>pitchayakit.p@gmail.com</a>'
   },
   skills: [
-    ['Laravel', '++++'],
-    ['PHP', '++++'],
+    ['Laravel', '+++++'],
+    ['PHP', '+++++'],
     ['Livewire', '++++'],
-    ['SCSS', '++++'],
-    ['Bootstrap', '++++'],
-    ['Tailwind', '++++'],
     ['AlpineJs', '++++'],
     ['jQuery', '++++'],
+    ['SCSS', '+++++'],
+    ['Tailwind', '++++'],
+    ['Bootstrap', '++++'],
     ['WordPress', '++++'],
     ['Restful', '++++'],
     ['GIT', '++++'],
@@ -23,6 +23,7 @@ module.exports = {
     ['VueJs', '+++'],
     ['NodeJs', '+++'],
     ['Linux', '+++'],
+    ['Nginx', '+++'],
     ['Python', '++'],
   ],
   plays: [
@@ -31,6 +32,8 @@ module.exports = {
       written: '2020 - Present',
       badges: ['Laravel', 'WordPress', 'VueJS', 'Nova', 'Alpine JS', 'Livewire'],
       contents: [
+        'Maintenance web server and CI/CD flow', 
+        'Writing clean, testable, high quality code',
         'Managed up Line CRM system', 
         'Managed up CMS using Laravel, Nova, and WordPress', 
         'Elasticsearch', 
@@ -45,7 +48,7 @@ module.exports = {
       contents: [
         'Managed up to 5 company websites', 
         'Managed up to 2 E-commerce websites', 
-        '1 library website for searching books using Laravel'
+        'Managed up 1 library website for searching books using Laravel'
       ]
     },
     {
