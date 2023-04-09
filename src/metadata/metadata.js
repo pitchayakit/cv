@@ -46,9 +46,8 @@ module.exports = {
       written: '2018 – 2020',
       badges: ['WordPress', 'Laravel'],
       contents: [
-        'Managed up to 5 company websites', 
-        'Managed up to 2 E-commerce websites', 
-        'Managed up 1 library website for searching books using Laravel'
+        'Managed up company, E-commerce, and Library websites',
+        'Upgraded and maintained web applications for maximum performance' 
       ]
     },
     {
@@ -57,7 +56,7 @@ module.exports = {
       badges: ['WordPress', 'NodeJs'],
       contents: [
         'Coaching internships in web development and technical support', 
-        'Managed up to 4 web content management systems and tasks at a given time', 
+        'Managed up web content management systems and collaaborate with video and content teams to collect requirements and provide implementation', 
         'Collaborate with designer in order to ensure quality and accuracy of the designy', 
         'A support tool for web scraping and export to excel file'
       ]
@@ -78,7 +77,7 @@ module.exports = {
       badges: ['WordPress', 'jQuery'],
       contents: [
         'Integrated HTML to WordPress and Prestashop', 
-        'Managed up to 4 webs content management system and tasks at a given time.', 
+        'Managed up web content management systems and tasks at a given time.', 
         'Collaborate with project manager to develop website, which is beyond own management project'
       ]
     },
