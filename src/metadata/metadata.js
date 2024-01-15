@@ -8,37 +8,53 @@ module.exports = {
     'Email': '<a href="mailto:pitchayakit.p@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>pitchayakit.p@gmail.com</a>'
   },
   skills: [
+    ['NodeJs', '+++++'],
+    ['ExpressJS', '+++++'],
     ['Laravel', '+++++'],
     ['PHP', '+++++'],
+    ['CSS', '+++++'],
+    ['SQL', '++++'],
     ['Livewire', '++++'],
     ['AlpineJs', '++++'],
     ['jQuery', '++++'],
-    ['SCSS', '+++++'],
     ['Tailwind', '++++'],
     ['Bootstrap', '++++'],
     ['WordPress', '++++'],
     ['Restful', '++++'],
     ['GIT', '++++'],
-    ['SQL', '++++'],
     ['VueJs', '+++'],
-    ['NodeJs', '+++'],
     ['Linux', '+++'],
     ['Nginx', '+++'],
     ['Python', '++'],
   ],
   plays: [
     {
+      title: 'Rocket 8 ',
+      written: '2023 - Present',
+      badges: ['NodeJs', 'ExpressJS', 'Sequelize'],
+      contents: [
+        "Collaborating with product development and design team",
+        "Creating a Document (SSOT) for a development team",
+        "Design User Journey, User Flow, Code pattern, Review code",
+        "Research state of the art",
+        "Design database schema",
+        "Data migration from legacy system to new system",
+        "Writing clean, testable, high-quality code",
+        "Upgrade and maintain web applications and database for maximum performance",
+      ]
+    },
+    {
       title: 'Lexicon',
-      written: '2020 - Present',
+      written: '2020 - 2023',
       badges: ['Laravel', 'WordPress', 'VueJS', 'Nova', 'Alpine JS', 'Livewire'],
       contents: [
-        'Maintenance web server and CI/CD flow', 
-        'Writing clean, testable, high quality code',
-        'Managed up Line CRM system', 
-        'Managed up CMS using Laravel, Nova, and WordPress', 
-        'Elasticsearch', 
-        'Data migration', 
-        'Coaching junior developer in web development and technical support'
+        'Maintained web servers and managed CI/CD processes',
+        'Developed clean, testable, and high-quality code',
+        'Managed the Line CRM system',
+        'Managed a CMS using Laravel, Nova, and WordPress',
+        'Implemented and managed Elasticsearch',
+        'Handled data migration tasks',
+        'Mentored junior developers in web development and provided technical support'
       ]
     },
     {
@@ -46,8 +62,8 @@ module.exports = {
       written: '2018 – 2020',
       badges: ['WordPress', 'Laravel'],
       contents: [
-        'Managed up company, E-commerce, and Library websites',
-        'Upgraded and maintained web applications for maximum performance' 
+        'Managed company, e-commerce, and library websites',
+        'Upgraded and maintained web applications for optimal performance'
       ]
     },
     {
@@ -55,10 +71,10 @@ module.exports = {
       written: '2017 – 2018',
       badges: ['WordPress', 'NodeJs'],
       contents: [
-        'Coaching internships in web development and technical support', 
-        'Managed up web content management systems and collaaborate with video and content teams to collect requirements and provide implementation', 
-        'Collaborate with designer in order to ensure quality and accuracy of the designy', 
-        'A support tool for web scraping and export to excel file'
+        'Coached interns in web development and provided technical support',
+        'Managed web content management systems and collaborated with video and content teams to gather requirements and implement solutions',
+        'Collaborated with designers to ensure the quality and accuracy of designs',
+        'Developed a tool for web scraping and exporting data to Excel files'
       ]
     },
     {
@@ -66,9 +82,9 @@ module.exports = {
       written: 'Mar 2017 – Sep 2017',
       badges: ['Ruby on Rail', 'React'],
       contents: [
-        'Migration content management system to Ruby on Rail platform', 
-        'Developed front-end website using jQuery, Boostrap, HTML and CSS in Ruby on Rail platform', 
-        'Supported the use of content management system and improve user interface'
+        'Migrated content management system to Ruby on Rails platform',
+        'Developed front-end of website using jQuery, Bootstrap, HTML, and CSS in Ruby on Rails platform',
+        'Supported the use of content management system and improved user interface'
       ]
     },
     {
@@ -76,9 +92,9 @@ module.exports = {
       written: '2016 – 2017',
       badges: ['WordPress', 'jQuery'],
       contents: [
-        'Integrated HTML to WordPress and Prestashop', 
-        'Managed up web content management systems and tasks at a given time.', 
-        'Collaborate with project manager to develop website, which is beyond own management project'
+        'Integrated HTML with WordPress and Prestashop',
+        'Managed web content management systems and multitasked effectively',
+        'Collaborated with project manager to develop websites beyond own project scope'
       ]
     },
     {
@@ -86,8 +102,8 @@ module.exports = {
       written: 'Jul 2015 – Dec 2015',
       badges: ['Play Framework', 'HTML Canvas', 'Joomla', 'OpenCV', 'MongoDB'],
       contents: [
-        'SENSE video analytics web application - replaced video output for detection, tracking and counting by HTML Canvas', 
-        'Take over and developed SeSaMe website using Joomla CMS', 
+        'SENSE video analytics web application - replaced video output for detection, tracking and counting by HTML Canvas',
+        'Take over and developed SeSaMe website using Joomla CMS',
       ]
     },
   ],
