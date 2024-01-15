@@ -9,7 +9,7 @@ module.exports = {
   },
   skills: [
     ['NodeJs', '+++++'],
-    ['ExpressJS', '+++++'],
+    ['ExpressJs', '+++++'],
     ['Laravel', '+++++'],
     ['PHP', '+++++'],
     ['CSS', '+++++'],
