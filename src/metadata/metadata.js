@@ -30,7 +30,7 @@ module.exports = {
   plays: [
     {
       title: 'Rocket 8 ',
-      written: '2023 - Present',
+      written: 'May 2023 - Present',
       badges: ['NodeJs', 'ExpressJS', 'Sequelize'],
       contents: [
         "Collaborating with product development and design team",
@@ -45,7 +45,7 @@ module.exports = {
     },
     {
       title: 'Lexicon',
-      written: '2020 - 2023',
+      written: 'Aug 2020 - Apr 2023',
       badges: ['Laravel', 'WordPress', 'VueJS', 'Nova', 'Alpine JS', 'Livewire'],
       contents: [
         'Maintained web servers and managed CI/CD processes',
@@ -68,7 +68,7 @@ module.exports = {
     },
     {
       title: 'Empag',
-      written: '2017 – 2018',
+      written: 'Oct 2017 – Oct 2018',
       badges: ['WordPress', 'NodeJs'],
       contents: [
         'Coached interns in web development and provided technical support',
