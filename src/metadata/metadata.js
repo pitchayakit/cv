@@ -63,7 +63,8 @@ module.exports = {
       badges: ['WordPress', 'Laravel'],
       contents: [
         'Managed company, e-commerce, and library websites',
-        'Upgraded and maintained web applications for optimal performance'
+        'Upgraded and maintained web applications for optimal performance',
+        'Collaborated closely with stakeholders to understand their unique requirements and goals'
       ]
     },
     {
@@ -114,7 +115,7 @@ module.exports = {
       contents: ``
     },
     {
-      header: 'Smart home with door and light control System.',
+      header: 'Smart home with door and light control system.',
       skills: ['IoT', 'PHP', 'jQuery'],
       contents: ``
     }
