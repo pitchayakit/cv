@@ -69,6 +69,16 @@ module.exports = {
       header: 'Video analytics web application',
       skills: ['Play Framework', 'HTML Canvas', 'OpenCV', 'MongoDB'],
       contents: `Cooperative Education at SeSaMe (Sensor-enhanced Social Media) Center, National University of Singapore`
+    },
+    {
+      header: "Smart home system",
+      skills: ['Arduino', 'Raspberry Pi', 'Python', 'Flask', 'MySQL'],
+      contents: `Bachelor's senior project at Kasetsart University`
+    },
+    {
+      header: "Teaching Assistant at Kasetsart University and National Central University",
+      skills: ['Programming', 'Data structure'],
+      contents: ``
     }
   ]
 };
