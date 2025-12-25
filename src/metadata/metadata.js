@@ -8,29 +8,51 @@ module.exports = {
     'Email': '<a href="mailto:pitchayakit.p@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>pitchayakit.p@gmail.com</a>'
   },
   skills: [
-    ['ExpressJs', '+++++'],
-    ['Laravel', '+++++'],
+    // Backend
     ['PHP', '+++++'],
-    ['CSS', '+++++'],
-    ['SQL', '++++'],
+    ['Laravel', '+++++'],
+    ['ExpressJs', '+++++'],
+    ['NestJs', '++'],
+    ['Python', '+++'],
+    ['Restful', '++++'],
+    // Frontend
     ['VueJs', '++++'],
+    ['CSS', '+++++'],
+    ['TypeScript', '+++'],
     ['Livewire', '++++'],
     ['AlpineJs', '++++'],
     ['Tailwind', '++++'],
     ['Bootstrap', '++++'],
-    ['WordPress', '++++'],
-    ['Restful', '++++'],
-    ['GIT', '++++'],
-    ['Linux', '+++'],
-    ['Python', '+++'],
-    ['TypeScript', '+++'],
-    ['NestJs', '++'],
     ['NextJs', '++'],
+    // Database & Tools
+    ['SQL', '++++'],
+    ['WordPress', '++++'],
+    ['GIT', '++++'],
+    ['AWS', '+++'],
+    ['Linux', '+++'],
   ],
   plays: [
     {
+      title: 'KMUTT ETS',
+      written: 'Jan 2025 - Present',
+      badges: ['AWS', 'TDD', 'Unit Test', 'Vitest', 'Agile', 'Generative AI'],
+      contents: [
+        "Deliver high-quality, scalable web applications as part of a distributed agile team.",
+        "Drive the implementation of assigned user stories by researching, selecting, and integrating the most suitable technical tools, stacks, and frameworks for an optimal architectural design.",
+        "Ensure robust, reliable, and maintainable code by leveraging Test-Driven Development (TDD) approaches and frameworks like Unit Test and Vitest.",
+        "Optimize platform reliability and scalability by maintaining infrastructure and automating pipelines using AWS.",
+        "Contribute to project success through active participation in backlog refinement, sprint planning, and daily standups, ensuring clarity on priorities and progress.",
+        "Reproduce and fix issues found on operating web applications.",
+        "Foster team growth by providing constructive code reviews and mentorship to enhance coding practices.",
+        "Continuously improve team efficiency by exploring and adopting innovative tools, techniques, and methodologies.",
+        "Support team success by collaborating effectively and assisting in achieving collective goals.",
+        "Contribute to the development of AI-powered features by engaging in Generative AI prompt engineering to optimize outputs and enhance user experience.",
+        "Advance educational product and framework development by contributing to academic research, ensuring evidence-based design and promoting widespread adoption."
+      ]
+    },
+    {
       title: 'Rocket 8 ',
-      written: 'May 2023 - Present',
+      written: 'May 2023 - Dec 2024',
       badges: ['ExpressJS', 'NestJs','Sequelize', "Swagger", "GitHub Copilot"],
       contents: [
         "Collaborated with product and design teams to align technical solutions with business goals.",
