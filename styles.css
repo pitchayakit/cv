@@ -79,6 +79,16 @@ body {
         margin-bottom: 0.5rem !important;
         margin-top: 0.25rem !important;
     }
+
+    a {
+        color: #007bff;
+        text-decoration: none;
+        word-break: break-all;
+    }
+
+    .print a {
+        font-size: 0.9rem;
+    }
 }
 
 @media not print {
