@@ -1,6 +1,15 @@
+/* Global font settings for consistent rendering */
+body {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 @media print {
     body {
         font-size: 19px;
+        font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+        line-height: 1.5;
     }
 
     .screen {
@@ -10,6 +19,7 @@
     .card {
         border: none;
         margin-bottom: 0.75rem !important;
+        page-break-inside: avoid;
     }
 
     .card-body {
@@ -18,6 +28,11 @@
 
     .badge {
         border: 0.07rem solid #868e96;
+        margin-right: 0.35rem;
+        margin-bottom: 0.35rem;
+        display: inline-block;
+        padding: 0.25rem 0.5rem;
+        font-size: 0.75rem;
     }
 
     .badge-primary {
@@ -28,10 +43,13 @@
     h2 {
         margin-top: 1rem !important;
         margin-bottom: 0.5rem !important;
+        page-break-after: avoid;
     }
 
     h3 {
         margin-bottom: 0.25rem !important;
+        margin-top: 0 !important;
+        page-break-after: avoid;
     }
 
     .mb-4 {
@@ -40,6 +58,26 @@
 
     ul {
         margin-bottom: 0.5rem !important;
+        margin-top: 0.5rem !important;
+        padding-left: 1.5rem;
+        list-style-position: outside;
+    }
+
+    li {
+        margin-bottom: 0.25rem;
+        padding-left: 0.25rem;
+        text-align: justify;
+        line-height: 1.4;
+    }
+
+    p {
+        text-align: justify;
+        margin-bottom: 0.5rem;
+    }
+
+    .text-muted {
+        margin-bottom: 0.5rem !important;
+        margin-top: 0.25rem !important;
     }
 }
 
